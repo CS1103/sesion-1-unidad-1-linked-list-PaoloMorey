@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jrpao/CLionProjects/FinalLinkedList/linked_list.h
+cctype
+-
+iostream
+-
+string
+-
+
+C:/Users/jrpao/CLionProjects/FinalLinkedList/main.cpp
+linked_list.h
+C:/Users/jrpao/CLionProjects/FinalLinkedList/linked_list.h
+
